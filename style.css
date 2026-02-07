@@ -12,11 +12,9 @@ a{
     text-decoration: none;
     color: #fff;
     padding: 0 8px;
-    /* background-color: aqua; */
 
 }
 
-    
 table{
     border: 1px solid #ccc;
     width: 100%;
@@ -41,7 +39,6 @@ ul{
 }
 #img-side{
     margin-top: 8px;
-    /* background-color: #d5c0c0; */
     width: 100%;
     text-align: center;
     position: relative;
@@ -81,8 +78,6 @@ li{
 
 }
 .main{
-        /* background:linear-gradient(  #000, #786d6d); */
-
     width: 100%;
 }
 .child{
